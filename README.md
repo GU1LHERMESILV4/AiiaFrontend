@@ -6,11 +6,11 @@
 
 - HTML
 
-- SCSS
+- CSS
 
 - TypeScript
 
-- Angular
+- React Native
 
 
 ### 🗄️ Banco de Dados
