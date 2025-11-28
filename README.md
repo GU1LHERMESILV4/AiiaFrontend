@@ -1,4 +1,4 @@
-# Hub Financeiro Móvel — Rascunho / MVP
+# Hub Financeiro Móvel — MVP
 
   ## Resumo
 
