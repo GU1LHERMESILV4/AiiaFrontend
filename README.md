@@ -1,20 +1,11 @@
-# AiiaFrontend
 
-## Tecnologias Utilizadas
+  # rascunho projeto Aiia
 
-### 🖥️ Front-end
+  This is a code bundle for rascunho projeto Aiia. The original project is available at https://www.figma.com/design/X9MHpdGBR9t5SYMl69ud0I/rascunho-projeto-Aiia.
 
-- HTML
+  ## Running the code
 
-- CSS
+  Run `npm i` to install the dependencies.
 
-- TypeScript
-
-- React Native
-
-
-### 🗄️ Banco de Dados
-
-- H2 — utilizado para testes em ambiente de desenvolvimento
-
-- PostgreSQL — utilizado como banco de dados real em produção
+  Run `npm run dev` to start the development server.
+  
